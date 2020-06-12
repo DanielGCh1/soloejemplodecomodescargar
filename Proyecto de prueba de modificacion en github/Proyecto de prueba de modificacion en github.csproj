@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Proyecto_de_prueba_de_modificacion_en_github</RootNamespace>
+  </PropertyGroup>
+
+</Project>
